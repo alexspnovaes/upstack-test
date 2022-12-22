@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "upstack-test", "upstack-test.csproj", "{BD567167-D06A-475B-975F-6CDB13ED1A63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD567167-D06A-475B-975F-6CDB13ED1A63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD567167-D06A-475B-975F-6CDB13ED1A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD567167-D06A-475B-975F-6CDB13ED1A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD567167-D06A-475B-975F-6CDB13ED1A63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8ED4466-5DEA-4AA1-BF53-8F41A06C8654}
+	EndGlobalSection
+EndGlobal
